@@ -1,7 +1,7 @@
 # week5hw
 Submit homework here
 
-Check out [the slack post](http://compvision.github.io/week5hw/) for a bit more information to help on this homework.
+Check out [the slack post](https://westviewrobotics.slack.com/messages/computer_vision) for a bit more information to help on this homework.
 
 For your homework this week, 
 
