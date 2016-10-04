@@ -1,0 +1,6 @@
+{
+  "name": "Week 5 Homework",
+  "tagline": "MORE HW :D",
+  "body": "Check out [the slack post](https://westviewrobotics.slack.com/messages/computer_vision) for a bit more information to help on this homework.\r\n\r\nFor your homework this week, \r\n\r\n1.) Download image of Japanese flag from http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png\r\n\r\nRemember: ```wget <url>```\r\n\r\n2.) Write a program to do the following:\r\n-Load image into Mat\r\n-Convert image to HSV color space\r\n-Threshold the hue to isolate the sun in the flag. Do this by trying several sets of values between 0 and 255 to find the values\r\n-Run the Canny edge detector\r\n-Find contours\r\n-Draw contours\r\nThis should have drawn a circle around the sun in the flag\r\n\r\n3.) As always, submit your hw as a pull request. (Make sure you clone from THIS ONE :D)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
